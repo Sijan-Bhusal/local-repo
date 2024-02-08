@@ -3,4 +3,4 @@
 <br>
 <h3>Author</h3>- Sijan Bhusal
 <br>
-<h3>Program</h3>- This is mainly about the repo demo and first try
+<h3>Program</h3>- This is mainly about the repo demo and first repo
